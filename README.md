@@ -1,8 +1,16 @@
-# React + Vite
+# Split Bill Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application built using React, designed to help users manage shared expenses and split bills among friends. It was developed as part of a React course to demonstrate fundamental concepts and practical application of React library features.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Friends**: Users can add new friends to the application, enabling them to keep track of shared expenses with specific individuals.
+  
+- **Split Bills**: Once friends are added, users can input various expenses incurred in group settings.
+  
+- **Balance Calculation**: The application computes and displays balances to show who owes money to whom, ensuring transparency in shared financial transactions.
+
+## Technologies Used
+
+- **React**: The core frontend library used for building user interfaces.
+  
